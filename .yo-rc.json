@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "14.21.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "viewcount",
+    "libraryId": "d8510ef0-7e46-4459-bde2-9ee765d70b7f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "viewcount",
+    "solutionShortDescription": "viewcount description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
